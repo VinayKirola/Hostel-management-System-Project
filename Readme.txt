@@ -1,9 +1,9 @@
-Project Features
+PROJECT FEATURES
 A project on hostel management system using Apache server and MySQL 5.62 developed. Hostel management system divided into two modules.
+1)Admin module
+2)User module
 
-Admin module
-User module
-Admin Module
+ADMIN MODULE
 Login – This module is used for admin login.
 Dashboard – Admin dashboard related total students, total rooms, total courses.
 Course Creation- Admin can add and manage course(Add, edit and delete)
@@ -14,7 +14,8 @@ Admin Profile
 Change password
 Access log- admin can see user login access details
 Logout
-User Module
+
+USER MODULE
 User Registration
 User login
 User forgot Password
